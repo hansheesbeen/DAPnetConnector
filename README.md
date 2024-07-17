@@ -3,7 +3,7 @@ DAPnet decentralized paging network for amateur radio operators. This is an conn
 
 # How to use
 - Add your dapnet/hampager credentials in the config file.
-- 
+
 usage: DAPnetConnector [-h] [-c CALL] [-g GROUP] [-m MESSAGE]
 
 Send messages to DAPnet from the command line.
